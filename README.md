@@ -6,9 +6,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-# 📊 GitHub Stats:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indpiag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://visitcount.itsvg.in/api?id=indpiag&label=Profile%20Views&icon=0&pretty=false" />
